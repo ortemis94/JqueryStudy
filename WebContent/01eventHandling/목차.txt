@@ -1,0 +1,74 @@
+
+chap01
+  -- 01jquery.html
+  -- 02jquery.html
+  -- popupContents.html
+
+chap02_bind
+  -- 01bind.html 						 ==> 이벤트 함수
+  -- 02bind_forEach.html		
+
+chap03_show_hide_val
+  -- 01val_show_hide.html				 ==> val() - 요소의 값, show() - 요소를 보여줌, hide() - 요소를 숨김.
+  -- 02each_radio_checked.html			 ==> 라디오 박스 
+  -- 03each_checkbox_checked.html		 ==> 체크박스
+
+chap04_unbind_random
+  -- 01event.target_unbind.html		 	 ==> $(event.target) - 이벤트가 발생하는 요소를 선택자로 타겟팅 함. unbind() - 이벤트가 발생하지 않도록 함.
+  -- 02event.target_empty_random.html	 ==> empty() - 선택자 안의 내용을 비움. Math.random() - 0~1 사이의 랜덤값을 가져옴.
+  
+chap05_mouseover_mouseout_hover
+  -- 01mouseover_mouseout_attr_prop.html ==> attr('속성'), prop('속성') - 선택자의 속성을 알아옴. mouseover - 마우스가 해당 요소에 올라갔을 때 이벤트 발생. mouseout - 마우스가 해당 요소에서 내려갔을 때 이벤트 발생.
+  -- 02mouseover_mouseout_index.html	 ==> index() - 배열에서 해당 요소의 index값을 알려줌.
+  -- 03click_eq_trigger.html			 ==> 선택자.eq(index).trigger("이벤트 종류"); - 복수의 선택자 중 index에 해당하는 요소를 가져와 이벤트를 바로 실행하게 함.   
+  -- 04hover.html						 ==> hover - mouseover, mouseout을 한꺼번에 부여할 수 있는 함수. 이벤트는 아님.
+  
+chap06_addClass_removeClass
+  -- 01css_addClass_removeClass_document_on.html
+  -- 02css_btnClick_color.html
+  -- 03accordion_transition_next01.html
+  -- 03accordion_transition_next02.html
+  -- 04tabMenu_eq01.html
+  -- 04tabMenu_eq02.html
+  
+chap07_opacity
+  -- 01opacity.html
+  -- 02opacity_quiz.html
+  -- 02opacity_quiz강사님꺼.html
+
+chap08_prepend_append_empty_remove
+  -- prepend_append_empty_remove.html
+
+chap09_profile_storage
+  -- profile_storage.html
+  
+chap10checkbox_children_find_siblings_prev_next_toggleClass
+  -- 01children_find.html
+  -- 02toggleClass_parent_siblings_prev_next.html
+ 
+chap11_fadeIn_fadeOut_slideUp_slideDown
+  -- 01fadeIn_fadeOut.html
+  -- 02slideUp_slideDown.html
+ 
+chap12_animate_fadeTo
+  -- 01animate_slideUp.html
+  -- 02animate_fadeTo.html
+  -- 03animate_fadeTo_loop.html
+  -- 04quiz.html
+  
+chap13_keydown_keyup
+  -- 01keydown_keyup.html
+  -- 02quiz_login.html
+ 
+chap14_eventBubbling
+  -- 01eventBubbling_fail.html
+  -- 02eventBubbling_success.html
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
